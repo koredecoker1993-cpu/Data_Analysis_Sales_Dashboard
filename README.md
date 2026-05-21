@@ -24,3 +24,6 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 
 ## Dashboard
 
+<img width="1415" height="804" alt="Sales dashboard tableau" src="https://github.com/user-attachments/assets/8292bdcd-b38f-4743-8dea-1245ea981035" />
+
+
