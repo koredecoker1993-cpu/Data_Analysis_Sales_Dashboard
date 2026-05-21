@@ -14,3 +14,4 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 - Which products rank among the top five in quantity sold, and how do they contribute to total revenue?
 - How do yearly sales figures vary across segments, and what is the overall growth or decline trend?
 
+- Dasboard Interaction <a href="https://github.com/koredecoker1993-cpu/Data_Analysis_Dashboard/blob/main/Sales%20Dashboard%20image.png">View Dashboard</a>
