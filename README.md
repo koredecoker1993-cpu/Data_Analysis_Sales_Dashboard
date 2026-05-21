@@ -21,3 +21,6 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 - Data Cleaning removed duplicates, handled missing values, standardized formats, and ensured data consistency for accurate reporting.
 - Data Transformation aggregated data by year, segment, and region; created calculated fields for KPIs such as Total Sales, Quantity Sold, and Revenue by Location.
 - Dashboard Development designed seven interactive charts in Tableau to visualize segment performance, category contribution, location comparison, monthly trends, country sales, top products, and yearly summaries.
+
+## Dashboard
+
