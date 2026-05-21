@@ -26,4 +26,12 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 
 <img width="1415" height="804" alt="Sales dashboard tableau" src="https://github.com/user-attachments/assets/8292bdcd-b38f-4743-8dea-1245ea981035" />
 
+## Project Insights
+- Consumer and Corporate segments generated the highest sales and quantity sold, showing strong customer demand across these groups.
+- Courses and Diploma categories contributed the most to overall revenue, indicating they are the core drivers of business performance.
+- Site locations consistently outperformed Hub locations, highlighting stronger sales activity and customer engagement at Site branches.
+- Pakistan and the UK recorded the highest sales among all countries, making them the top‑performing regions in the dataset.
+
+## Final Conclusion
+This sales analysis project successfully transformed raw data into clear, actionable insights using Excel and Tableau. The dashboards reveal strong performance across key segments and categories, with Site locations and countries like Pakistan and the UK driving the highest revenue. Product demand patterns and yearly trends highlight where the business is performing well and where growth opportunities exist. Overall, the project provides a comprehensive, data‑driven view of sales performance to support strategic decision‑making.
 
