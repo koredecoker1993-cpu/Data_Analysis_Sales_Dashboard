@@ -16,9 +16,8 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 
 - Dasboard Interaction <a href="https://github.com/koredecoker1993-cpu/Data_Analysis_Dashboard/blob/main/Sales%20Dashboard%20image.png">View Dashboard</a>
 
-- Data Preparation imported and structured raw sales data containing product, category, country, segment, and revenue details.
-
 ## Process
+- Data Preparation imported and structured raw sales data containing product, category, country, segment, and revenue details.
 - Data Cleaning removed duplicates, handled missing values, standardized formats, and ensured data consistency for accurate reporting.
 - Data Transformation aggregated data by year, segment, and region; created calculated fields for KPIs such as Total Sales, Quantity Sold, and Revenue by Location.
 - Dashboard Development designed seven interactive charts in Tableau to visualize segment performance, category contribution, location comparison, monthly trends, country sales, top products, and yearly summaries.
