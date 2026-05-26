@@ -36,7 +36,8 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 
 ## DASHBOARD
 
-<img width="1415" height="804" alt="Sales dashboard tableau" src="https://github.com/user-attachments/assets/8292bdcd-b38f-4743-8dea-1245ea981035" />
+<img width="1410" height="817" alt="Sales Dashboard image" src="https://github.com/user-attachments/assets/5cc86432-8b07-444a-9185-7e26a5bc63fd" />
+
 
 ## PROJECT INSIGHT
 - Consumer and Corporate segments generated the highest sales and quantity sold, showing strong customer demand across these groups.
