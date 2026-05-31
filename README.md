@@ -47,7 +47,8 @@ The goal of this project is to analyze and visualize sales data using Excel and 
 
 ## FINAL CONCLUSION
 
-![Visitor Count](https://komarev.com/ghpvc/?username=koredecoker1993&label=Profile%20Views&color=0e75b6&style=flat)
-
 This sales analysis project successfully transformed raw data into clear, actionable insights using Excel and Tableau. The dashboards reveal strong performance across key segments and categories, with Site locations and countries like Pakistan and the UK driving the highest revenue. Product demand patterns and yearly trends highlight where the business is performing well and where growth opportunities exist. Overall, the project provides a comprehensive, data‑driven view of sales performance to support strategic decision‑making.
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=koredecoker1993&label=Profile%20Views&color=0e75b6&style=flat)
 
